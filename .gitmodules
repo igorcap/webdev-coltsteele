@@ -1,0 +1,9 @@
+[submodule "PhotoPortifolio"]
+	path = PhotoPortifolio
+	url = https://github.com/igorcap/photoportifolio.git
+[submodule "RESTfullBlogApp"]
+	path = RESTfullBlogApp
+	url = https://github.com/igorcap/bcblogpage.git
+[submodule "TicTackToe"]
+	path = TicTackToe
+	url = https://github.com/igorcap/tttboard.git
